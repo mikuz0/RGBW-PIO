@@ -1,0 +1,80 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/include",
+                "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/src",
+                "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/lib/SSD1306Ascii/src",
+                "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire/src",
+                "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/lib/IRLremote-master/src",
+                "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/lib/GyverRGB",
+                "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/lib/GyverRGB/utility",
+                "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/lib/GyverEncoder",
+                "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/lib/GyverButton",
+                "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/cores/MiniCore",
+                "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/variants/standard",
+                "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI/src",
+                "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/lib/Arduino-EEPROMEx-master",
+                "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/lib/IRremote",
+                "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/libraries/AVR_examples/src",
+                "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/libraries/EEPROM/src",
+                "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/libraries/Optiboot_flasher/src",
+                "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI1/src",
+                "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/libraries/SoftwareSerial/src",
+                "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire1/src",
+                "/home/mikuz/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/include",
+                    "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/src",
+                    "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/lib/SSD1306Ascii/src",
+                    "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire/src",
+                    "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/lib/IRLremote-master/src",
+                    "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/lib/GyverRGB",
+                    "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/lib/GyverRGB/utility",
+                    "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/lib/GyverEncoder",
+                    "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/lib/GyverButton",
+                    "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/cores/MiniCore",
+                    "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/variants/standard",
+                    "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI/src",
+                    "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/lib/Arduino-EEPROMEx-master",
+                    "/home/mikuz/Yandex.Disk/PlatformIO/Projects/RGBW-PIO/RGBW-PIO/lib/IRremote",
+                    "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/libraries/AVR_examples/src",
+                    "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/libraries/EEPROM/src",
+                    "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/libraries/Optiboot_flasher/src",
+                    "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/libraries/SPI1/src",
+                    "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/libraries/SoftwareSerial/src",
+                    "/home/mikuz/.platformio/packages/framework-arduino-avr-minicore/libraries/Wire1/src",
+                    "/home/mikuz/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50200",
+                "ARDUINO_AVR_ATmega328P",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "/home/mikuz/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
