@@ -4,7 +4,7 @@
   Исходники на GitHub: https://github.com/AlexGyver/GyverLED/
   Нравится, как написан код? Поддержи автора! https://alexgyver.ru/support_alex/
   Автор: AlexGyver, AlexGyver Technologies, 2019
-  https://AlexGyver.ru/
+  https://AlexGyver.ru/ 
 */
 /*
   Версия 1.7
